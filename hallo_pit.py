@@ -21,4 +21,4 @@ if confirm == "yes":
     print("Contract signed successfully.")
 else:
     print("Signing cancelled.")
-# like everything for 
+# like everything for

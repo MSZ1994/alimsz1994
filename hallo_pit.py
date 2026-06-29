@@ -21,4 +21,4 @@ if confirm == "yes":
     print("Contract signed successfully.")
 else:
     print("Signing cancelled.")
-# here we are guys welcome new bo :0
+# here we are guys welcome new b :0
